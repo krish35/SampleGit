@@ -1,1 +1,2 @@
 This sample file, modified after 2nd commit
+This text is modifed after 3rd commit
